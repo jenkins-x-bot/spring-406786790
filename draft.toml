@@ -1,0 +1,7 @@
+[environments]
+  [environments.development]
+    name = "spring-406786790"
+    namespace = "default"
+    wait = false
+    watch = false
+    watch_delay = 2
